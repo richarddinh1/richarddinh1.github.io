@@ -1,11 +1,11 @@
 # Site settings
-author: richard dinh
-title: 
+author: Richard Dinh
+title: Why did you decide to study Software Engineering?
 header-img: img/home-bg.png
 email: richardndinh@gmail.com
-copyright_name: richard dinh
+copyright_name: Richard Dinh
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  richarddinh1
